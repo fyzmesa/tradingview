@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+    color: #AAA;
+    font-family: verdana;
+    font-size: 10px;
+    background-color: #000;
+}
+.tradingview {
+  float: left;
+  width: 20%;
+  height: 300px;
+  margin-bottom: 0px;
+}
